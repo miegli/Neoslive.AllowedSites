@@ -1,0 +1,9 @@
+{
+    "name": "neoslive/allowedsites",
+    "type": "typo3-flow-package",
+    "description": "Make nodetypes visible only specific sites.",
+    "license": "GPL-3.0+",
+    "require": {
+        "typo3/neos": "~2.1"
+    }
+}
